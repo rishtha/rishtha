@@ -56,3 +56,11 @@ Building scalable backend systems, full stack applications, and performance focu
 - CSE Faculty Portal
 - Brief Me the Case
 - Stroke Prediction using ML
+
+- ### 💡 Coding Practice
+
+- Solving Data Structures and Algorithms problems consistently
+- Active on LeetCode with focus on Arrays, DP, Graphs, and System Design patterns
+- Practicing for Software Engineering interviews
+
+🔗 LeetCode: https://leetcode.com/rishi35
