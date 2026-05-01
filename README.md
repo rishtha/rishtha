@@ -14,11 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h1 align="center">Hi 👋, I'm Rishitha Saravanan Priya</h1>
 <h3 align="center">Software Engineer | MS CS @ University at Buffalo</h3>
-
----
 
 <p align="center">
 Building scalable backend systems, full stack applications, and performance focused software.
@@ -59,15 +56,3 @@ Building scalable backend systems, full stack applications, and performance focu
 - CSE Faculty Portal
 - Brief Me the Case
 - Stroke Prediction using ML
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishitha&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishitha&theme=tokyonight" />
-</p>
