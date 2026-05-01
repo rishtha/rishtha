@@ -14,3 +14,60 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Rishitha Saravanan Priya</h1>
+<h3 align="center">Software Engineer | MS CS @ University at Buffalo</h3>
+
+---
+
+<p align="center">
+Building scalable backend systems, full stack applications, and performance focused software.
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+- MS in Computer Science at University at Buffalo
+- Ex-Deloitte Software Engineer
+- Interested in Backend, Full Stack, and Distributed Systems roles
+- Currently building academic and internal tooling platforms
+
+---
+
+### 🌐 Connect with me
+
+<p>
+  <a href="https://linkedin.com/in/rishithasp">LinkedIn</a> •
+  <a href="https://rishitha.dev">Portfolio</a> •
+  <a href="mailto:rishithasp@gmail.com">Email</a>
+</p>
+
+---
+
+### 🛠 Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cs,js,ts,sql,c,cpp,spring,dotnet,nodejs,react,nextjs,mysql,postgres,docker,git,linux,aws,azure" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- Pintos Operating System Kernel
+- CSE Faculty Portal
+- Brief Me the Case
+- Stroke Prediction using ML
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishitha&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishitha&theme=tokyonight" />
+</p>
