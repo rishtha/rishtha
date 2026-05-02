@@ -10,22 +10,23 @@
 </p>
 
 <p align="center">
-  Backend and systems engineer with 3+ years building production software across backend services, distributed workflows, and performance critical systems.
+  Backend and systems engineer with 3+ years building production software across backend services, distributed workflows, and performance-critical systems.
 </p>
 
 <p align="center">
-  MS in Computer Science @ University at Buffalo • Ex-Deloitte • Open to Full-time Software Engineer roles in the U.S.
+  🎓 MS CS @ University at Buffalo &nbsp;•&nbsp; 💼 Ex-Deloitte &nbsp;•&nbsp; 📍 U.S. &nbsp;•&nbsp; 🚀 Open to Full-time SWE Roles
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/rishithasp">LinkedIn</a> •
   <a href="https://rishitha.dev">Portfolio</a> •
-  <a href="mailto:sprishitha@gmail.com">Email</a>
+  <a href="mailto:sprishitha@gmail.com">Email</a> •
+  <a href="https://leetcode.com/u/rishi35/">LeetCode</a>
 </p>
 
 ---
 
-## Recruiter Snapshot
+## 📌 Recruiter Snapshot
 
 - 3+ years building backend systems and production applications
 - Built and optimized backend services supporting 10K+ daily production transactions
@@ -36,7 +37,7 @@
 
 ---
 
-## Technical Focus
+## ⚙️ Technical Focus
 
 ### Backend Engineering
 Java, Spring Boot, C#, ASP.NET Core, REST APIs, GraphQL, workflow services
@@ -52,10 +53,10 @@ Docker, AWS, Azure, Linux, CI/CD, deployment automation
 
 ---
 
-## Featured Projects
+## 🧩 Featured Projects
 
 <details>
-<summary><strong>Pintos Operating System Kernel</strong></summary>
+<summary><strong>🖥️ Pintos Operating System Kernel</strong></summary>
 <br>
 
 Implemented kernel scheduling and synchronization primitives in C, including priority donation, MLFQ scheduling, semaphores, and hardened system call validation.
@@ -66,7 +67,7 @@ Implemented kernel scheduling and synchronization primitives in C, including pri
 </details>
 
 <details>
-<summary><strong>Faculty Portal Platform</strong></summary>
+<summary><strong>🏛️ Faculty Portal Platform</strong></summary>
 <br>
 
 Built backend services and academic data workflows with normalized schema design, indexed queries, and containerized services for reliable multi-user workflows.
@@ -77,7 +78,7 @@ Built backend services and academic data workflows with normalized schema design
 </details>
 
 <details>
-<summary><strong>Relational Database Optimization</strong></summary>
+<summary><strong>🗄️ Relational Database Optimization</strong></summary>
 <br>
 
 Designed a normalized relational system with indexing and execution plan optimization, reducing query execution time from 3.38 ms to 0.53 ms across 25K+ records.
@@ -88,7 +89,7 @@ Designed a normalized relational system with indexing and execution plan optimiz
 </details>
 
 <details>
-<summary><strong>Distributed Data Processing</strong></summary>
+<summary><strong>⚡ Distributed Data Processing</strong></summary>
 <br>
 
 Built Hadoop and Spark pipelines to process multi-GB datasets in a Linux cluster, benchmarking distributed compute performance and scalability.
@@ -100,7 +101,7 @@ Built Hadoop and Spark pipelines to process multi-GB datasets in a Linux cluster
 
 ---
 
-## What You’ll Find Here
+## 🔍 What You’ll Find Here
 
 This GitHub is focused on practical software engineering work with emphasis on backend systems, performance, and production-oriented implementation.
 
@@ -114,43 +115,18 @@ Repositories here are centered around:
 
 ---
 
-## Engineering Activity
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishitha&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
-</p>
-
----
-
-## Tech Stack
-
-### Languages
-Java, C#, Python, SQL, C, C++, JavaScript, TypeScript
-
-### Backend
-Spring Boot, ASP.NET Core, ASP.NET MVC, Node.js, REST APIs, GraphQL
-
-### Databases
-SQL Server, PostgreSQL, MySQL, Oracle PL/SQL
-
-### Cloud and DevOps
-Docker, AWS, Azure, Linux, CI/CD, Jenkins, Azure DevOps
-
-### Frontend
-Next.js, React, HTML, CSS, TypeScript
+**Languages:** Java, C#, Python, SQL, C, C++, JavaScript, TypeScript  
+**Backend:** Spring Boot, ASP.NET Core, ASP.NET MVC, Node.js, REST APIs, GraphQL  
+**Databases:** SQL Server, PostgreSQL, MySQL, Oracle PL/SQL  
+**Cloud and DevOps:** Docker, AWS, Azure, Linux, CI/CD, Jenkins, Azure DevOps  
+**Frontend:** Next.js, React, HTML, CSS, TypeScript  
 
 ---
 
-## Coding Practice
-
-Consistently practicing data structures and algorithms with emphasis on problem solving, patterns, and interview readiness.
-
-LeetCode: https://leetcode.com/u/rishi35/
-
----
-
-## Currently Open To
+## 🎯 Currently Open To
 
 Full-time Software Engineer roles across backend engineering, platform engineering, and systems-focused software development.
 
-Open to backend, infrastructure, and platform opportunities, as well as recruiter outreach and referrals.
+Open to backend, infrastructure, and platform opportunities, recruiter outreach, and referrals.
