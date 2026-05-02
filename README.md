@@ -1,18 +1,26 @@
 <h1 align="center">Rishitha Saravanan Priya</h1>
-<h3 align="center">Software Engineer | Backend Systems | Production Infrastructure</h3>
 
 <p align="center">
-Backend and systems engineer with 3+ years building production software across backend services, distributed workflows, and performance critical systems.
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Backend+Systems+Engineer;Building+Production+APIs;Distributed+Systems+and+Performance;Open+to+Full-time+Software+Engineer+Roles"
+      alt="Typing headline"
+    />
+  </a>
 </p>
 
 <p align="center">
-MS in Computer Science @ University at Buffalo • Ex-Deloitte • Open to Full-time Software Engineer roles in the U.S.
+  Backend and systems engineer with 3+ years building production software across backend services, distributed workflows, and performance critical systems.
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/rishithasp">LinkedIn</a> •
-<a href="https://rishitha.dev">Portfolio</a> •
-<a href="mailto:sprishitha@gmail.com">Email</a>
+  MS in Computer Science @ University at Buffalo • Ex-Deloitte • Open to Full-time Software Engineer roles in the U.S.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/rishithasp">LinkedIn</a> •
+  <a href="https://rishitha.dev">Portfolio</a> •
+  <a href="mailto:sprishitha@gmail.com">Email</a>
 </p>
 
 ---
@@ -46,29 +54,49 @@ Docker, AWS, Azure, Linux, CI/CD, deployment automation
 
 ## Featured Projects
 
-### Pintos Operating System Kernel
+<details>
+<summary><strong>Pintos Operating System Kernel</strong></summary>
+<br>
+
 Implemented kernel scheduling and synchronization primitives in C, including priority donation, MLFQ scheduling, semaphores, and hardened system call validation.
 
 **Signal:** Systems programming, concurrency, low-level correctness  
-**Stack:** C, OS Internals, Scheduling, Synchronization
+**Stack:** C, OS Internals, Scheduling, Synchronization  
 
-### Faculty Portal Platform
+</details>
+
+<details>
+<summary><strong>Faculty Portal Platform</strong></summary>
+<br>
+
 Built backend services and academic data workflows with normalized schema design, indexed queries, and containerized services for reliable multi-user workflows.
 
 **Signal:** Backend architecture, schema design, API workflows  
-**Stack:** Spring Boot, Java, SQL, Docker, Next.js
+**Stack:** Spring Boot, Java, SQL, Docker, Next.js  
 
-### Relational Database Optimization
+</details>
+
+<details>
+<summary><strong>Relational Database Optimization</strong></summary>
+<br>
+
 Designed a normalized relational system with indexing and execution plan optimization, reducing query execution time from 3.38 ms to 0.53 ms across 25K+ records.
 
 **Signal:** Query optimization, indexing strategy, database performance  
-**Stack:** SQL, PostgreSQL, Query Planning
+**Stack:** SQL, PostgreSQL, Query Planning  
 
-### Distributed Data Processing
+</details>
+
+<details>
+<summary><strong>Distributed Data Processing</strong></summary>
+<br>
+
 Built Hadoop and Spark pipelines to process multi-GB datasets in a Linux cluster, benchmarking distributed compute performance and scalability.
 
 **Signal:** Distributed systems, large-scale data processing  
-**Stack:** Hadoop, Spark, Python, Linux
+**Stack:** Hadoop, Spark, Python, Linux  
+
+</details>
 
 ---
 
@@ -83,6 +111,14 @@ Repositories here are centered around:
 - database design and performance optimization
 - distributed processing and infrastructure workflows
 - production-style engineering with practical implementation depth
+
+---
+
+## Engineering Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishitha&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
+</p>
 
 ---
 
@@ -102,6 +138,14 @@ Docker, AWS, Azure, Linux, CI/CD, Jenkins, Azure DevOps
 
 ### Frontend
 Next.js, React, HTML, CSS, TypeScript
+
+---
+
+## Coding Practice
+
+Consistently practicing data structures and algorithms with emphasis on problem solving, patterns, and interview readiness.
+
+LeetCode: https://leetcode.com/u/rishi35/
 
 ---
 
