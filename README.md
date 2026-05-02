@@ -1,66 +1,112 @@
-## Hi there 👋
-
-<!--
-**rishtha/rishtha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Rishitha Saravanan Priya</h1>
-<h3 align="center">Software Engineer | MS CS @ University at Buffalo</h3>
+<h1 align="center">Rishitha Saravanan Priya</h1>
+<h3 align="center">Software Engineer | Backend Systems | Production Infrastructure</h3>
 
 <p align="center">
-Building scalable backend systems, full stack applications, and performance focused software.
+Backend and systems engineer with 3+ years building production software across backend services, distributed workflows, and performance critical systems.
+</p>
+
+<p align="center">
+MS in Computer Science @ University at Buffalo • Ex-Deloitte • Open to Full-time Software Engineer roles in the U.S.
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/rishithasp">LinkedIn</a> •
+<a href="https://rishitha.dev">Portfolio</a> •
+<a href="mailto:sprishitha@gmail.com">Email</a>
 </p>
 
 ---
 
-### 👩‍💻 About Me
+## Recruiter Snapshot
 
-- MS in Computer Science at University at Buffalo
-- Ex-Deloitte Software Engineer
-- Interested in Backend, Full Stack, and Distributed Systems roles
-- Currently building academic and internal tooling platforms
-
----
-
-### 🌐 Connect with me
-
-<p>
-  <a href="https://linkedin.com/in/rishithasp">LinkedIn</a> •
-  <a href="https://rishitha.dev">Portfolio</a> •
-  <a href="mailto:rishithasp@gmail.com">Email</a>
-</p>
+- 3+ years building backend systems and production applications
+- Built and optimized backend services supporting 10K+ daily production transactions
+- Strong experience in backend engineering, distributed systems, and concurrency
+- Hands-on with performance optimization, query tuning, indexing, and execution plan analysis
+- Built production systems using Java, Spring Boot, C#, ASP.NET Core, SQL, Docker, and AWS
+- Focused on backend reliability, throughput, and production-grade engineering
 
 ---
 
-### 🛠 Languages and Tools
+## Technical Focus
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cs,js,ts,sql,c,cpp,spring,dotnet,nodejs,react,nextjs,mysql,postgres,docker,git,linux,aws,azure" />
-</p>
+### Backend Engineering
+Java, Spring Boot, C#, ASP.NET Core, REST APIs, GraphQL, workflow services
+
+### Systems and Performance
+Distributed systems, concurrency, multithreading, throughput optimization, production debugging
+
+### Data and Databases
+SQL Server, PostgreSQL, MySQL, Oracle PL/SQL, schema design, indexing, query optimization
+
+### Cloud and Infrastructure
+Docker, AWS, Azure, Linux, CI/CD, deployment automation
 
 ---
 
-### 🚀 Featured Projects
+## Featured Projects
 
-- Pintos Operating System Kernel
-- CSE Faculty Portal
-- Brief Me the Case
-- Stroke Prediction using ML
+### Pintos Operating System Kernel
+Implemented kernel scheduling and synchronization primitives in C, including priority donation, MLFQ scheduling, semaphores, and hardened system call validation.
 
-- ### 💡 Coding Practice
+**Signal:** Systems programming, concurrency, low-level correctness  
+**Stack:** C, OS Internals, Scheduling, Synchronization
 
-- Solving Data Structures and Algorithms problems consistently
-- Active on LeetCode with focus on Arrays, DP, Graphs, and System Design patterns
-- Practicing for Software Engineering interviews
+### Faculty Portal Platform
+Built backend services and academic data workflows with normalized schema design, indexed queries, and containerized services for reliable multi-user workflows.
 
-🔗 LeetCode: https://leetcode.com/rishi35
+**Signal:** Backend architecture, schema design, API workflows  
+**Stack:** Spring Boot, Java, SQL, Docker, Next.js
+
+### Relational Database Optimization
+Designed a normalized relational system with indexing and execution plan optimization, reducing query execution time from 3.38 ms to 0.53 ms across 25K+ records.
+
+**Signal:** Query optimization, indexing strategy, database performance  
+**Stack:** SQL, PostgreSQL, Query Planning
+
+### Distributed Data Processing
+Built Hadoop and Spark pipelines to process multi-GB datasets in a Linux cluster, benchmarking distributed compute performance and scalability.
+
+**Signal:** Distributed systems, large-scale data processing  
+**Stack:** Hadoop, Spark, Python, Linux
+
+---
+
+## What You’ll Find Here
+
+This GitHub is focused on practical software engineering work with emphasis on backend systems, performance, and production-oriented implementation.
+
+Repositories here are centered around:
+
+- backend services and APIs
+- systems programming and concurrency
+- database design and performance optimization
+- distributed processing and infrastructure workflows
+- production-style engineering with practical implementation depth
+
+---
+
+## Tech Stack
+
+### Languages
+Java, C#, Python, SQL, C, C++, JavaScript, TypeScript
+
+### Backend
+Spring Boot, ASP.NET Core, ASP.NET MVC, Node.js, REST APIs, GraphQL
+
+### Databases
+SQL Server, PostgreSQL, MySQL, Oracle PL/SQL
+
+### Cloud and DevOps
+Docker, AWS, Azure, Linux, CI/CD, Jenkins, Azure DevOps
+
+### Frontend
+Next.js, React, HTML, CSS, TypeScript
+
+---
+
+## Currently Open To
+
+Full-time Software Engineer roles across backend engineering, platform engineering, and systems-focused software development.
+
+Open to backend, infrastructure, and platform opportunities, as well as recruiter outreach and referrals.
