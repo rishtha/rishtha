@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  🎓 MS CS @ University at Buffalo &nbsp;•&nbsp; 💼 Ex-Deloitte &nbsp;•&nbsp; 📍 U.S. &nbsp;•&nbsp; 🚀 Open to Full-time SWE Roles
+  🎓 MS CS @ University at Buffalo &nbsp;•&nbsp; 💼 Deloitte &nbsp;•&nbsp; 📍 U.S. &nbsp;•&nbsp; 🚀 Open to Full-time SWE Roles
 </p>
 
 <p align="center">
