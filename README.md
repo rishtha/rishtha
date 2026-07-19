@@ -1,49 +1,106 @@
-<h1 align="center">Hi, I'm Rishitha 👋</h1>
+<div align="center">
 
-<p align="center">
-  Software Engineer building backend systems, distributed services, and cloud-native applications.
-</p>
+# Hi, I'm Rishitha 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rishithasp">LinkedIn</a>
-  •
-  <a href="mailto:sprishitha@gmail.com">Email</a>
-  •
-  <a href="https://leetcode.com/rishi35">LeetCode</a>
-</p>
+### Software Engineer @ Deloitte
 
----
+**Backend Engineering • Distributed Systems • Cloud • Applied AI**
 
-### About Me
+M.S. Computer Science | University at Buffalo
 
-- Software Engineer at Deloitte with 3+ years of experience
-- M.S. in Computer Science from the University at Buffalo
-- Building services with C#, ASP.NET Core, Java, Spring Boot, SQL, and cloud technologies
-- Interested in backend engineering, distributed systems, performance, and reliability
+<a href="https://www.linkedin.com/in/rishithasp">LinkedIn</a> •
+<a href="mailto:sprishitha@gmail.com">Email</a> •
+<a href="https://leetcode.com/rishi35">LeetCode</a> •
+<a href="https://rishitha.dev">Portfolio</a>
 
-### Tech
-
-**Languages:** C#, Java, Python, C++, SQL, JavaScript, TypeScript  
-**Backend:** ASP.NET Core, .NET, Spring Boot, REST APIs, Microservices  
-**Data:** SQL Server, PostgreSQL, Oracle, Redis, Spark, Hadoop  
-**Cloud & Tools:** Azure, AWS, Docker, Linux, Git, CI/CD, Kibana
-
-### Featured Work
-
-#### [Pintos OS Kernel](https://github.com/rishtha/Pintos-OS-Kernel)
-Implemented priority donation, MLFQ scheduling, synchronization primitives, and system-call handling in C, achieving a 95%+ pass rate across 200+ tests.
-
-#### Relational Database Optimization
-Designed and optimized a PostgreSQL system across 25K+ records using indexing, stored procedures, triggers, and execution-plan analysis.
-
-#### Distributed Data Processing
-Built Spark and Hadoop pipelines for large-scale processing workloads, achieving up to 20× faster execution than Python multiprocessing.
-
-#### Transformer Text Classification
-Built a PyTorch text-classification pipeline with self-attention, positional encoding, batched preprocessing, and GPU-accelerated training.
+</div>
 
 ---
 
-<p align="center">
-  Open to Software Engineer opportunities in backend, platform, distributed systems, and cloud infrastructure.
-</p>
+## 👩‍💻 About Me
+
+I'm a Software Engineer with 3+ years of experience building scalable backend systems and enterprise applications.
+
+Currently at **Deloitte**, I develop ASP.NET Core microservices, build REST APIs, investigate production issues, optimize SQL performance, and improve the reliability of distributed systems.
+
+I recently completed my **M.S. in Computer Science** at the **University at Buffalo**, where I specialized in operating systems, distributed systems, databases, and machine learning.
+
+---
+
+## 🚀 Tech Stack
+
+**Languages**
+
+`C#` • `Java` • `Python` • `C++` • `JavaScript` • `TypeScript` • `SQL`
+
+**Backend**
+
+`.NET` • `ASP.NET Core` • `Spring Boot` • `REST APIs` • `GraphQL` • `Microservices`
+
+**Cloud & DevOps**
+
+`Azure` • `AWS` • `Docker` • `Azure DevOps` • `Jenkins` • `Linux`
+
+**Databases**
+
+`SQL Server` • `PostgreSQL` • `Oracle` • `MySQL` • `Redis`
+
+**Big Data**
+
+`Apache Spark` • `Hadoop` • `Kafka`
+
+**Tools**
+
+`Git` • `Kibana` • `JIRA` • `Postman` • `Swagger`
+
+---
+
+## ⭐ Featured Projects
+
+🖥 **Pintos Operating System Kernel**
+
+Implemented Linux-style scheduling, synchronization primitives, and system call handling in C/C++, achieving a **95%+ test pass rate**.
+
+⚡ **Distributed Data Processing**
+
+Built Apache Spark and Hadoop pipelines for large-scale data processing, achieving **20× faster execution** than Python multiprocessing.
+
+🗄 **Relational Database Optimization**
+
+Designed and optimized a PostgreSQL system with indexing, triggers, stored procedures, and execution-plan analysis across **25K+ records**.
+
+🤖 **Transformer Text Classification**
+
+Developed a scalable PyTorch text classification pipeline with custom self-attention, GPU training, and **80%+ test accuracy**.
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rishtha&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishtha&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🤝 Open to Roles
+
+**Software Engineer • Backend Engineer • Platform Engineer • Distributed Systems Engineer • Applied AI Engineer**
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+I'm always happy to connect with engineers, recruiters, and teams building scalable software.
+
+<a href="https://www.linkedin.com/in/rishithasp">LinkedIn</a> •
+<a href="mailto:sprishitha@gmail.com">Email</a> •
+<a href="https://leetcode.com/rishi35">LeetCode</a>
+
+</div>
