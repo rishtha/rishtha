@@ -2,9 +2,11 @@
 
 # Hi, I'm Rishitha 👋
 
-### Software Engineer @ Deloitte
-
-**Backend Engineering • Distributed Systems • Cloud • Applied AI**
+<p align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1500&color=3FB950&center=true&vCenter=true&width=850&lines=Software+Engineer+%40+Deloitte;Backend+Engineering+%E2%80%A2+Distributed+Systems+%E2%80%A2+Cloud;Open+to+Software+Engineering+Roles" />
+</p>
+</p>
 
 M.S. Computer Science | University at Buffalo
 
@@ -75,13 +77,6 @@ Developed a scalable PyTorch text classification pipeline with custom self-atten
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rishtha&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishtha&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
