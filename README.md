@@ -32,28 +32,22 @@ I recently completed my **M.S. in Computer Science** at the **University at Buff
 ## 🚀 Tech Stack
 
 **Languages**
-
-`C#` • `Java` • `Python` • `C++` • `JavaScript` • `TypeScript` • `SQL`
+C# • Java • Python • C++ • JavaScript • TypeScript • SQL
 
 **Backend**
+ASP.NET Core • .NET • Spring Boot • REST APIs • GraphQL • Microservices
 
-`.NET` • `ASP.NET Core` • `Spring Boot` • `REST APIs` • `GraphQL` • `Microservices`
+**Cloud & Infrastructure**
+Azure • AWS • Docker • Kubernetes • Linux
 
-**Cloud & DevOps**
+**Databases & Distributed Systems**
+SQL Server • PostgreSQL • Oracle • MySQL • Redis • Apache Kafka • Apache Spark • Hadoop
 
-`Azure` • `AWS` • `Docker` • `Azure DevOps` • `Jenkins` • `Linux`
+**DevOps & Observability**
+Azure DevOps • Jenkins • Git • CI/CD • Kibana • Telemetry • Logging • Monitoring • Performance Testing
 
-**Databases**
-
-`SQL Server` • `PostgreSQL` • `Oracle` • `MySQL` • `Redis`
-
-**Big Data**
-
-`Apache Spark` • `Hadoop` • `Kafka`
-
-**Tools**
-
-`Git` • `Kibana` • `JIRA` • `Postman` • `Swagger`
+**Architecture**
+Distributed Systems • System Design • Batch Processing • Concurrency • Multithreading
 
 ---
 
