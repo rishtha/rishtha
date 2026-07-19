@@ -28,26 +28,63 @@ Currently at **Deloitte**, I develop ASP.NET Core microservices, build REST APIs
 I recently completed my **M.S. in Computer Science** at the **University at Buffalo**, where I specialized in operating systems, distributed systems, databases, and machine learning.
 
 ---
-## 🚀 Tech Stack
+## ⚡ Tech Stack
 
-**Languages**
-C# • Java • Python • C++ • JavaScript • TypeScript • SQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,spring,python,cpp,js,ts,react,nextjs,nodejs,azure,aws,docker,kubernetes,redis,postgres,mysql,linux,git,jenkins" />
+</p>
 
-**Backend**
-ASP.NET Core • .NET • Spring Boot • REST APIs • GraphQL • Microservices
+<h3 align="center">🌟 Core Expertise</h3>
 
-**Cloud & Infrastructure**
-Azure • AWS • Docker • Kubernetes • Linux
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Engineering-0078D4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-512BD4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-2563EB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Design-0EA5E9?style=for-the-badge&logoColor=white" />
+</p>
 
-**Databases & Distributed Systems**
-SQL Server • PostgreSQL • Oracle • MySQL • Redis • Apache Kafka • Apache Spark • Hadoop
+<h3 align="center">☁️ Cloud & Infrastructure</h3>
 
-**DevOps & Observability**
-Azure DevOps • Jenkins • Git • CI/CD • Kibana • Telemetry • Logging • Monitoring • Performance Testing
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+</p>
 
-**Architecture**
-Distributed Systems • System Design • Batch Processing • Concurrency • Multithreading
+<h3 align="center">🗄️ Database Engineering</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-E34F26?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+</p>
+
+<h3 align="center">🚀 Production Engineering</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telemetry-2EA043?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Batch%20Processing-6E40C9?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Performance%20Testing-F59E0B?style=flat-square&logoColor=white" />
+</p>
+
+<h3 align="center">🤖 Applied AI</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI%20APIs-412991?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+---
 ---
 
 ## ⭐ Featured Projects
