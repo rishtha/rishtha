@@ -28,7 +28,6 @@ Currently at **Deloitte**, I develop ASP.NET Core microservices, build REST APIs
 I recently completed my **M.S. in Computer Science** at the **University at Buffalo**, where I specialized in operating systems, distributed systems, databases, and machine learning.
 
 ---
-
 ## 🚀 Tech Stack
 
 **Languages**
